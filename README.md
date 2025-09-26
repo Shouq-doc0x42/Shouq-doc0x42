@@ -25,8 +25,7 @@
 ---
 
 ## 📂 Featured Projects
-🔑 **Applied Cryptography – Diffie–Hellman MITM Simulation** [Project Link](https://github.com/Shouq-doc0x42/Crypto-Project.git)  **Coming Soon**
-_A vulnerable implementation with Mallory attack & patched version with digital signatures._  
+- 🔐 [MITM Attack on Diffie–Hellman](https://github.com/Shouq-doc0x42/mitm-dh-attack) **Coming Soon**
 
 ---
 
