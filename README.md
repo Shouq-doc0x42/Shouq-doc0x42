@@ -31,8 +31,8 @@
 
 ## 🎯 Roadmap
 - 🏅 **Certifications Roadmap**:
-  - CompTIA CySec+ (planned)
-  - CompTIA Security+ (planned)
+  - HTB Certified Junior Cybersecurity Associate (planned)
+  - HTB Certified Penetration Testing Specialist (planned)
   - AWS Cloud Practitioner (planned)
   - Digital Forensics certification (future goal)
 
