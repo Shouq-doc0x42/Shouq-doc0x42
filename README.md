@@ -44,7 +44,9 @@ And yes… 🐱 Pookie supervises all commits!
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Shouq-doc0x42&color=lightgrey)
+
 <!-- Personal Watermark -->
-<p align="center">  
+<p align="center"> 
   <sub>🔮 Doctor Plague & Pookie 🐾 | Shouq Althubaiti </sub>  
 </p>
