@@ -38,6 +38,12 @@
 
 ---
 
+## 🪼My Treasure
+If you interested in buying my Cornell notes and many more, visit the link below:
+https://pookieacademia.gumroad.com/
+
+---
+
 ## ✨ Fun Fact
 > *Defense is an art, Forensics is the truth.*  
 And yes… 🐱 Pookie supervises all commits!  
