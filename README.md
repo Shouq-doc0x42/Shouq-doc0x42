@@ -40,7 +40,7 @@
 
 ## 🪼My Treasure
 If you interested in buying my Cornell notes and many more, visit the link below:
-https://pookieacademia.gumroad.com/
+[https://pookieacademia.gumroad.com/](https://pookieacademia.gumroad.com/subscribe)
 
 ---
 
