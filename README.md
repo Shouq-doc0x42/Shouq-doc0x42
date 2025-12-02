@@ -25,7 +25,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔐 [MITM Attack on Diffie–Hellman](https://github.com/Shouq-doc0x42/mitm-dh-attack) **Coming Soon**
+- 
 
 ---
 
