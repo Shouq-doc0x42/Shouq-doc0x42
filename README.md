@@ -3,7 +3,7 @@
 <img width="1500" height="1000" alt="banner" src="https://github.com/user-attachments/assets/abecc5e4-539f-4daa-b33f-44db9fd20fbf" />
 
 # 👩🏻‍💻 Shouq Althubaiti | Cybersecurity & Forensic Computing (CSFC)
-🎓 Undergraduate student at University of Prince Mugrin (UPM)  
+🎓 Graduate student at University of Prince Mugrin (UPM)  
 🔒 Future Cybersecurity Specialist | 🕵️ Digital Forensics Enthusiast  
 🐾 Sidekick: Prince Pookie, my fluffy cyber-guardian cat  
 
@@ -12,12 +12,12 @@
 ## 🛡️ About Me
 - 💻 Majoring in **Cybersecurity & Forensic Computing** 
 - 📚 Goal: Build a portfolio that combines **defense, investigation, and research**  
-- 🧩 Interests: Red/Blue team labs, network security, forensic analysis, and mobile forensic  
+- 🧩 Interests: Red/Blue team labs, network forensics, forensic analysis, and mobile forensic  
 
 ---
 
 ## ⚒️ Skills & Tools
-- **Programming**: Python | Java | C++
+- **Programming**: Python | Java
 - **Forensics**: Autopsy | Volatility | FTK Imager |
 - **Security Tools**: Wireshark | MITMProxy | Nmap | Metasploit | hping3
 - **Other**: Git/GitHub, Linux, Canva (for diagrams & reports)
