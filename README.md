@@ -1,7 +1,5 @@
 <!-- Profile Banner (optional - replace with your own banner image) -->
 
-<img width="1500" height="1000" alt="banner" src="https://github.com/user-attachments/assets/abecc5e4-539f-4daa-b33f-44db9fd20fbf" />
-
 # 👩🏻‍💻 Shouq Althubaiti | Cybersecurity & Forensic Computing (CSFC)
 🎓 Graduate student at University of Prince Mugrin (UPM)  
 🔒 Future Cybersecurity Specialist | 🕵️ Digital Forensics Enthusiast  
