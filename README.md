@@ -16,7 +16,7 @@
 
 ## ⚒️ Skills & Tools
 - **Programming**: Python | Java
-- **Forensics**: Autopsy | Volatility | FTK Imager |
+- **Forensics**: Autopsy | Volatility | FTK Imager | Magnet AXIOM
 - **Security Tools**: Wireshark | MITMProxy | Nmap | Metasploit | hping3
 - **Other**: Git/GitHub, Linux, Canva (for diagrams & reports)
 
@@ -25,6 +25,7 @@
 ## 📂 Featured Projects
 - https://github.com/Shouq-doc0x42/PookieTrace
 - https://github.com/Shouq-doc0x42/ExifMeow
+- https://github.com/Shouq-doc0x42/PawTrace
 ---
 
 ## 🎯 Roadmap
