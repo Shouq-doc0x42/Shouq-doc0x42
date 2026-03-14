@@ -23,8 +23,8 @@
 ---
 
 ## 📂 Featured Projects
+- https://github.com/Shouq-doc0x42/PookieTrace
 - 
-
 ---
 
 ## 🎯 Roadmap
