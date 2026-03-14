@@ -24,7 +24,7 @@
 
 ## 📂 Featured Projects
 - https://github.com/Shouq-doc0x42/PookieTrace
-- 
+- https://github.com/Shouq-doc0x42/ExifMeow
 ---
 
 ## 🎯 Roadmap
