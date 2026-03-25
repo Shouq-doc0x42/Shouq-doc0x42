@@ -27,7 +27,7 @@
 <img src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png" width="45" height="45"/>
 
 <img src="https://img.icons8.com/?size=256&id=101665&format=png" width="45" height="45"/>
-<img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/6914c5f6e5b3ebb12ce86156_updated-logo.svg" width="45" height="45"/>
+<img src="https://storage.googleapis.com/organization-image-assets/ultralytics-botAvatarSrcUrl-1729379860806.svg" width="45" height="45"/>
 
 
 ---
