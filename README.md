@@ -15,10 +15,24 @@
 ---
 
 ## ⚒️ Skills & Tools
-- **Programming**: Python | Java
-- **Forensics**: Autopsy | Volatility | FTK Imager | Magnet AXIOM
-- **Security Tools**: Wireshark | MITMProxy | Nmap | Metasploit | hping3
-- **Other**: Git/GitHub, Linux, Canva (for diagrams & reports)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45"/>
+
+<img src="https://img.icons8.com/color/48/wireshark.png" width="45" height="45"/>
+<img src="https://img.icons8.com/fluency/48/security-checked.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/kali-linux.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/forensics.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/data-configuration.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/security-configuration.png" width="45" height="45"/>
 
 ---
 
