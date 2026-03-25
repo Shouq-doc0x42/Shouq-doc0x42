@@ -24,16 +24,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45"/>
-
-<img src="https://img.icons8.com/color/48/wireshark.png" width="45" height="45"/>
-<img src="https://img.icons8.com/fluency/48/security-checked.png" width="45" height="45"/>
-<img src="https://img.icons8.com/color/48/kali-linux.png" width="45" height="45"/>
-<img src="https://img.icons8.com/color/48/forensics.png" width="45" height="45"/>
-<img src="https://img.icons8.com/color/48/data-configuration.png" width="45" height="45"/>
-<img src="https://img.icons8.com/color/48/security-configuration.png" width="45" height="45"/>
-
 ---
 
 ## 📂 Featured Projects
