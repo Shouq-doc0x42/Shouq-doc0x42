@@ -29,8 +29,8 @@
 <img src="https://img.icons8.com/?size=256&id=101665&format=png" width="45" height="45"/>
 <img src="https://storage.googleapis.com/organization-image-assets/ultralytics-botAvatarSrcUrl-1729379860806.svg" width="45" height="45"/>
 <img src="https://cdn11.bigcommerce.com/s-dxafvjr7uc/images/stencil/960w/products/298/1969/MagnetForensics__64350.1740506961.jpg?c=1" width="45" height="45"/>
-<img src="https://storage.googleapis.com/organization-image-assets/ultralytics-botAvatarSrcUrl-1729379860806.svg" width="45" height="45"/>
-<img src="https://storage.googleapis.com/organization-image-assets/ultralytics-botAvatarSrcUrl-1729379860806.svg" width="45" height="45"/>
+<img src="https://volatility3.readthedocs.io/en/latest/_static/vol.png" width="45" height="45"/>
+<img src="https://img.icons8.com/?size=256&id=MSSIu6fxvJKT&format=png" width="45" height="45"/>
 
 
 
