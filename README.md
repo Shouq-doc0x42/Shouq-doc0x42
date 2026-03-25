@@ -59,7 +59,9 @@ If you interested in buying my Cornell notes and many more, visit the link below
 
 ## 📊 GitHub Stats
 <p align = "center">
+  
 ![Shouq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shouq-doc0x42&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouq-doc0x42&layout=compact&theme=tokyonight)
+
 </p>
 ---
 
