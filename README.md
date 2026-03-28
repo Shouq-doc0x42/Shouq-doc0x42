@@ -42,6 +42,7 @@
 - https://github.com/Shouq-doc0x42/PookieTrace
 - https://github.com/Shouq-doc0x42/ExifMeow
 - https://github.com/Shouq-doc0x42/PawTrace
+- https://github.com/Shouq-doc0x42/MeowStimulator
 ---
 
 ## 🎯 Roadmap
