@@ -35,6 +35,7 @@
 <img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="45" height="45"/>
 <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dbd7160a-1e99-4805-aba0-9c46134b298a.png?w=100&q=50" width="45" height="45"/>
 <img src="https://flask.palletsprojects.com/en/stable/_static/flask-logo.svg" width="45" height="45"/>
+<img src="https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png" width="45" height="45"/>
 
 ---
 
