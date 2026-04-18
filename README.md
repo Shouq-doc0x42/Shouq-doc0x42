@@ -17,26 +17,45 @@
 ## ⚒️ Skills & Tools
 <p align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
-<img src="https://img.icons8.com/?size=256&id=49188&format=png" width="45" height="45"/>
-<img src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png" width="45" height="45"/>
-<img src="https://img.icons8.com/?size=256&id=101665&format=png" width="45" height="45"/>
-<img src="https://storage.googleapis.com/organization-image-assets/ultralytics-botAvatarSrcUrl-1729379860806.svg" width="45" height="45"/>
-<img src="https://cdn11.bigcommerce.com/s-dxafvjr7uc/images/stencil/960w/products/298/1969/MagnetForensics__64350.1740506961.jpg?c=1" width="45" height="45"/>
-<img src="https://volatility3.readthedocs.io/en/latest/_static/vol.png" width="45" height="45"/>
-<img src="https://img.icons8.com/?size=256&id=MSSIu6fxvJKT&format=png" width="45" height="45"/>
-<img src="https://img.icons8.com/?size=256&id=38792&format=png" width="45" height="45"/>
-<img src="https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_vkreH.png" width="45" height="45"/>
-<img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="45" height="45"/>
-<img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dbd7160a-1e99-4805-aba0-9c46134b298a.png?w=100&q=50" width="45" height="45"/>
-<img src="https://flask.palletsprojects.com/en/stable/_static/flask-logo.svg" width="45" height="45"/>
-<img src="https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png" width="45" height="45"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
+
+<img src="https://img.icons8.com/?size=256&id=49188&format=png" width="45" height="45"/>
+
+<img src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png" width="45" height="45"/>
+
+<img src="https://img.icons8.com/?size=256&id=101665&format=png" width="45" height="45"/>
+
+<img src="https://storage.googleapis.com/organization-image-assets/ultralytics-botAvatarSrcUrl-1729379860806.svg" width="45" height="45"/>
+
+<img src="https://cdn11.bigcommerce.com/s-dxafvjr7uc/images/stencil/960w/products/298/1969/MagnetForensics__64350.1740506961.jpg?c=1" width="45" height="45"/>
+
+<img src="https://volatility3.readthedocs.io/en/latest/_static/vol.png" width="45" height="45"/>
+
+<img src="https://img.icons8.com/?size=256&id=MSSIu6fxvJKT&format=png" width="45" height="45"/>
+
+<img src="https://img.icons8.com/?size=256&id=38792&format=png" width="45" height="45"/>
+
+<img src="https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_vkreH.png" width="45" height="45"/>
+
+<img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="45" height="45"/>
+
+<img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dbd7160a-1e99-4805-aba0-9c46134b298a.png?w=100&q=50" width="45" height="45"/>
+
+<img src="https://flask.palletsprojects.com/en/stable/_static/flask-logo.svg" width="45" height="45"/>
+
+<img src="https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png" width="45" height="45"/>
+</p>
 ---
 
 ## 📂 Featured Projects
