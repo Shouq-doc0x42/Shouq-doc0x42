@@ -56,6 +56,7 @@
 
 <img src="https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png" width="45" height="45"/>
 </p>
+
 ---
 
 ## 📂 Featured Projects
